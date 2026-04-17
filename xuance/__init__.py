@@ -9,4 +9,4 @@ __all__ = [
     "load_yaml"
 ]
 
-__version__ = 'v1.4.1'
+__version__ = 'v1.4.2'
